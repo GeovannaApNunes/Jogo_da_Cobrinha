@@ -4,11 +4,11 @@ Um simples jogo da cobrinha desenvolvido em Python utilizando a biblioteca Pygam
 
 📌 Recursos do Jogo
 
-✅ Movimentação fluida da cobra utilizando as setas do teclado.
-✅ Geração aleatória de comida para a cobra crescer.
-✅ Obstáculos que dificultam a movimentação.
-✅ Aumento gradual da velocidade a cada 5 pontos.
-✅ Exibição da pontuação em tempo real.
+✅ Movimentação fluida da cobra utilizando as setas do teclado. <br/>
+✅ Geração aleatória de comida para a cobra crescer. <br/>
+✅ Obstáculos que dificultam a movimentação. <br/>
+✅ Aumento gradual da velocidade a cada 5 pontos. <br/>
+✅ Exibição da pontuação em tempo real. <br/>
 ✅ Mensagem de Game Over centralizada na tela quando a cobra colide com um obstáculo ou sai dos limites.
 
 🚀 Como Jogar
@@ -22,6 +22,8 @@ python jogo_da_cobrinha.py
 4️⃣ Desvie dos obstáculos e evite colidir com as bordas da tela.
 5️⃣ O jogo aumenta de velocidade conforme sua pontuação cresce!
 
-🛠 Tecnologias Utilizadas
-	•	Python 🐍
+🛠 Tecnologias Utilizadas   <br/>
+	•	Python 🐍 <br/>
 	•	Pygame 🎮
+
+![image](https://github.com/user-attachments/assets/5f0f47dd-ef32-49ea-b936-c75a51bb61fa)
