@@ -15,7 +15,7 @@ Um simples jogo da cobrinha desenvolvido em Python utilizando a biblioteca Pygam
 
 1️⃣ Execute o jogo com o seguinte comando:
 
-python jogo_da_cobrinha.py
+python jogo.py
 
 2️⃣ Use as setas do teclado para controlar a direção da cobra.
 3️⃣ Coma a comida vermelha para ganhar pontos e crescer.
